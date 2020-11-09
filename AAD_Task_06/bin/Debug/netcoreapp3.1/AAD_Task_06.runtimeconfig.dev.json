@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\truba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\truba\\.nuget\\packages"
+    ]
+  }
+}

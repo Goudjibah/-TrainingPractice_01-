@@ -1,0 +1,13 @@
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\bin\Debug\netcoreapp3.1\AAD_Task_03.exe
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\bin\Debug\netcoreapp3.1\AAD_Task_03.deps.json
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\bin\Debug\netcoreapp3.1\AAD_Task_03.runtimeconfig.json
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\bin\Debug\netcoreapp3.1\AAD_Task_03.runtimeconfig.dev.json
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\bin\Debug\netcoreapp3.1\AAD_Task_03.dll
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\bin\Debug\netcoreapp3.1\AAD_Task_03.pdb
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.csprojAssemblyReference.cache
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.AssemblyInfoInputs.cache
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.AssemblyInfo.cs
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.csproj.CoreCompileInputs.cache
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.dll
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.pdb
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\AAD_Task_03\obj\Debug\netcoreapp3.1\AAD_Task_03.genruntimeconfig.cache

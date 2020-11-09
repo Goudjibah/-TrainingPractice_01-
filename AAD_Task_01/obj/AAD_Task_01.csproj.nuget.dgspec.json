@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\truba\\Documents\\papka\\учёба\\практика\\TrainingPractice_01\\AAD_Task_01\\AAD_Task_01.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\truba\\Documents\\papka\\учёба\\практика\\TrainingPractice_01\\AAD_Task_01\\AAD_Task_01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\truba\\Documents\\papka\\учёба\\практика\\TrainingPractice_01\\AAD_Task_01\\AAD_Task_01.csproj",
+        "projectName": "AAD_Task_01",
+        "projectPath": "C:\\Users\\truba\\Documents\\papka\\учёба\\практика\\TrainingPractice_01\\AAD_Task_01\\AAD_Task_01.csproj",
+        "packagesPath": "C:\\Users\\truba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\truba\\Documents\\papka\\учёба\\практика\\TrainingPractice_01\\AAD_Task_01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\truba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

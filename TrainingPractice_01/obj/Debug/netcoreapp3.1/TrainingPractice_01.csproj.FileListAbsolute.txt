@@ -1,0 +1,13 @@
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\TrainingPractice_01.exe
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\TrainingPractice_01.deps.json
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\TrainingPractice_01.runtimeconfig.json
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\TrainingPractice_01.runtimeconfig.dev.json
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\TrainingPractice_01.dll
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\bin\Debug\netcoreapp3.1\TrainingPractice_01.pdb
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.csprojAssemblyReference.cache
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.AssemblyInfoInputs.cache
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.AssemblyInfo.cs
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.csproj.CoreCompileInputs.cache
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.dll
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.pdb
+C:\Users\truba\Documents\papka\учёба\практика\TrainingPractice_01\TrainingPractice_01\obj\Debug\netcoreapp3.1\TrainingPractice_01.genruntimeconfig.cache
