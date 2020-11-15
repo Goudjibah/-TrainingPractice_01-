@@ -1,0 +1,13 @@
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\bin\Debug\netcoreapp3.1\Individual_Project.exe
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\bin\Debug\netcoreapp3.1\Individual_Project.deps.json
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\bin\Debug\netcoreapp3.1\Individual_Project.runtimeconfig.json
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\bin\Debug\netcoreapp3.1\Individual_Project.runtimeconfig.dev.json
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\bin\Debug\netcoreapp3.1\Individual_Project.dll
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\bin\Debug\netcoreapp3.1\Individual_Project.pdb
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.csprojAssemblyReference.cache
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.AssemblyInfoInputs.cache
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.AssemblyInfo.cs
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.csproj.CoreCompileInputs.cache
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.dll
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.pdb
+C:\Users\truba\Documents\papka\учёба\практика\творческое\Individual_Project\Individual_Project\obj\Debug\netcoreapp3.1\Individual_Project.genruntimeconfig.cache
